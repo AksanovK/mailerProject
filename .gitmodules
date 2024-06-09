@@ -7,6 +7,8 @@
 [submodule "controllingSender"]
 	path = controllingSender
 	url = https://github.com/AksanovK/controllingSender
+	branch = dev
 [submodule "controllingParser"]
 	path = controllingParser
 	url = https://github.com/AksanovK/controllingParser
+	branch = dev
