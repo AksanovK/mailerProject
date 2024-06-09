@@ -1,0 +1,12 @@
+[submodule "controllingBack"]
+	path = controllingBack
+	url = https://github.com/AksanovK/controllingBack
+[submodule "controllingFront"]
+	path = controllingFront
+	url = https://github.com/AksanovK/controllingFront
+[submodule "controllingSender"]
+	path = controllingSender
+	url = https://github.com/AksanovK/controllingSender
+[submodule "controllingParser"]
+	path = controllingParser
+	url = https://github.com/AksanovK/controllingParser
